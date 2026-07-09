@@ -14,9 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Groq Chat Interface",
-  description: "Chat with Meta Llama 3 on Groq with persistent session metrics.",
-  applicationName: "Groq Chat Interface",
+  title: "Groq Chat",
+  description: "Chat with Llama 3 on Groq",
+  applicationName: "Groq Chat",
   generator: "v0.app",
 };
 
